@@ -36,8 +36,19 @@ they understand. Main platform: Instagram (short teaching clips), then YouTube.
 2. Coach the athlete: listen, meet each athlete where they are at, teach.
 3. Earn trust: show real progress and deliver the TPC Standard daily.
 
-## Still to ask
-- Caption look (screenshot)
-- Music
-- How a clip should OPEN and END
-- Editing preferences
+## Captions
+- Preset: `plugins/vibe-editing/skills/caption-clips/presets/tpc.json` (sample: `caption-style/tpc-caption-sample.png`)
+- Montserrat SemiBold base, ExtraBold/Black emphasis; white text; lime #BAD629 = top payoff word,
+  bright blue #01BDF9 = key word / second voice. Numbers stay white.
+
+## Music
+- Owner said "pick for me": royalty-free, direct/focused feel. No tracks downloaded yet.
+
+## Footage reality
+- TPC raw footage is pure training footage with NO talking. Plan: silent training reel — pick best
+  reps, reframe to 9:16 on the athlete, on-screen text in TPC caption style carrying the "why",
+  beat-cut to music, logo end card. Confirm parental consent for minors before posting.
+- Pending owner choice: who writes on-screen text (owner gives coaching point / Claude drafts / none).
+
+## Defaults until owner says otherwise
+- OPEN: straight into the coaching point, no slow intro. END: a clear takeaway (the "why").
